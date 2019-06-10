@@ -1,0 +1,184 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559935877 source:c:\tp3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Parser.h"
+	"Controller.h"
+
+1559735036 c:\tp3\linkedlist.h
+
+1559911779 c:\tp3\employee.h
+	"LinkedList.h"
+
+1559935832 source:c:\tp3\employee.c
+	"Employee.h"
+	"string.h"
+	"utn.h"
+
+1559934735 source:c:\tp3\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559934690 source:c:\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1559764155 c:\tp3\controller.h
+
+1559735036 c:\tp3\parser.h
+
+1559935889 source:c:\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538742754 c:\tp3\utn.h
+
+1560116534 source:c:\users\equipo\onedrive\documents\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1560116534 c:\users\equipo\onedrive\documents\utn.h
+
+1560123071 source:c:\users\equipo\onedrive\documents\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Parser.h"
+	"Controller.h"
+
+1560116534 c:\users\equipo\onedrive\documents\linkedlist.h
+
+1560116534 c:\users\equipo\onedrive\documents\employee.h
+	"LinkedList.h"
+
+1560116534 c:\users\equipo\onedrive\documents\parser.h
+
+1560116534 c:\users\equipo\onedrive\documents\controller.h
+
+1560123071 source:c:\users\equipo\onedrive\documents\employee.c
+	"Employee.h"
+	"string.h"
+	"utn.h"
+
+1560123071 source:c:\users\equipo\onedrive\documents\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1560123626 source:c:\users\equipo\onedrive\documents\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1560123071 source:c:\users\equipo\documents\programacion joan\trabajopracticon3\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Parser.h"
+	"Controller.h"
+
+1560116534 c:\users\equipo\documents\programacion joan\trabajopracticon3\linkedlist.h
+
+1560116534 c:\users\equipo\documents\programacion joan\trabajopracticon3\employee.h
+	"LinkedList.h"
+
+1560116534 c:\users\equipo\documents\programacion joan\trabajopracticon3\parser.h
+
+1560116534 c:\users\equipo\documents\programacion joan\trabajopracticon3\controller.h
+
+1560123071 source:c:\users\equipo\documents\programacion joan\trabajopracticon3\employee.c
+	"Employee.h"
+	"string.h"
+	"utn.h"
+
+1560116534 c:\users\equipo\documents\programacion joan\trabajopracticon3\utn.h
+
+1560123071 source:c:\users\equipo\documents\programacion joan\trabajopracticon3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"utn.h"
+
+1560116534 source:c:\users\equipo\documents\programacion joan\trabajopracticon3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
